@@ -1,0 +1,62 @@
+* {
+
+  text-decoration: none;
+  font-family: "Pangolin", cursive;
+  color: #ffffff;
+
+}
+
+body {
+
+  background-color: #ffffff;
+}
+
+.body100 {
+
+  width: 100%;
+  height: 600px;
+  padding: 10px 100px 10px 100px;
+  box-sizing: border-box;
+
+}
+
+.body1200 {
+
+  width: 1200px;
+  height: 500px;
+  margin: auto;
+
+}
+
+.sistema {
+
+  padding: 20px;
+  background-color: #39b6bb;
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  font-size: 30px;
+  background-image: url(../IMG/planetas.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  float: left;
+  margin: 25px;
+
+}
+
+.constelacion {
+
+  padding: 20px;
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  font-size: 30px;
+  background-image: url(../IMG/constelaciones.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  float: left;
+  margin: 25px;
+
+}

@@ -1,0 +1,46 @@
+*{
+    font-family: 'Pangolin', cursive;
+    text-decoration: none;
+}
+
+h1{
+    margin: 40px 72PX;
+    color: darkgrey;
+    font-size: 40px;
+}
+
+.imgPlanetas{
+     width: 1200px;
+     height: 500px;
+     margin: 0px 75px 0px 75px;
+     margin: auto;
+    
+}
+
+.sistema{
+    width: 200px;
+    height: 200px;
+    background-image:
+    url(../IMG/solar/fondo.png);
+    padding: 20px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 15px 15px 20px 20px;
+    border-radius: 5px;
+    float: left;
+    color: white;
+    
+}
+
+.imgPlaneta{
+    width: 130px;
+}
+.saturno{
+    padding-top: 25px; 
+}
+
+.tituloPlaneta{
+    font-size: 20px;
+    text-align: center;
+}
+
